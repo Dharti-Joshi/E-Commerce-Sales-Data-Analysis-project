@@ -1,0 +1,6 @@
+Order_ID,Order_Date,Customer_Name,Product_Name,Category,Quantity,Unit_Price,Discount,Total_Sales,Payment_Method,City,State,Order_Status
+1001,2026-01-01,Rahul Sharma,Mouse,Electronics,2,799,10,1438.20,UPI,Ahmedabad,Gujarat,Delivered
+1002,2026-01-02,Priya Patel,Speaker,Electronics,1,2499,5,2374.05,Card,Surat,Gujarat,Delivered
+1003,2026-01-03,Amit Kumar,T-Shirt,Fashion,3,599,15,1527.45,COD,Delhi,Delhi,Shipped
+1004,2026-01-04,Neha Singh,Shoes,Fashion,1,3499,20,2799.20,UPI,Mumbai,Maharashtra,Delivered
+1005,2026-01-05,Rohit Verma,Watch,Electronics,1,4999,10,4499.10,Card,Pune,Maharashtra,Delivered
