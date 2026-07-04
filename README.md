@@ -100,25 +100,10 @@ Business Insights
 # 📊 Visualizations
 
 ## 📈 Sales Trend
-![alt text](<top _seling.png-1-1-1.png>)
-
----
-
 ## 🛍️ Category-wise Sales
-
-![Category-wise Sales](category_sales.png-3.png)
-
----
-
 ## 💳 Payment Method Distribution
-![alt text](payment_distribution.png-2.png)
-
-
----
-
 ## 📦 Quantity Sold
 
-![Quantity Sold](top_seling.png)
 
 # 💼 Skills Demonstrated
 
@@ -178,9 +163,6 @@ pandas
 numpy
 matplotlib
 jupyter
-```
-
----
 
 # 📸 Project Output
 
@@ -194,8 +176,6 @@ jupyter
 
 ✔ Business Insights
 
----
-
 # 🎓 Learning Outcomes
 
 - Data Cleaning
@@ -205,8 +185,6 @@ jupyter
 - Python Programming
 - GitHub Project Management
 
----
-
 # 📈 Future Improvements
 
 - Add Interactive Dashboard using Plotly
@@ -214,8 +192,6 @@ jupyter
 - Build Sales Prediction Model
 - Deploy using Streamlit
 - Add Customer Segmentation
-
----
 
 # 👩‍💻 Author
 
